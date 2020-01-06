@@ -1,2 +1,2 @@
 # DIP_Learning
-for the course of digital image prosessing
+for the course of digital image processing
